@@ -10,7 +10,7 @@ a:active, a:hover {
 	text-decoration: underline; 
 }
 
-a:link, a:visited {
+a:link {
 	text-decoration: none;
 }
 
